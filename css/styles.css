@@ -257,6 +257,8 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.02em;
   background-color: #ffffff;
+  text-align: center;
+  margin-bottom: 8px;
 }
 
 .meta-text {
