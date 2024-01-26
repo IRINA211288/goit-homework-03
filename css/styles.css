@@ -224,6 +224,9 @@ ul {
   background-color: #f4f4fd;
 }
 
+.member-profession {
+  padding: 32px 0;
+}
 .meta-caption {
   margin-bottom: 72px;
   color: #2e2f42;
@@ -272,6 +275,11 @@ ul {
   padding-bottom: 120px;
 }
 
+.portfolio-title-text {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+}
 .portfolio-caption {
   margin-bottom: 72px;
   color: #2e2f42;
